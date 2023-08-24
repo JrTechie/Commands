@@ -1,0 +1,104 @@
+COMMANDS	USAGE
+cp -v	used to print informative massage
+cp -r	used to copy any directory
+mv -u	update-move when the source is newer than the destination
+mv -v	to move any directory
+ls -n	to display UID and GID directory
+ls –version	to check the version of the ls command
+cd —	show the last working directory from where we moved
+ls -l	show file action like – modified, date and time, owner of the file, permissions Etc.
+ls help	show display how to use the “ls” command
+cp -n	no file overwrite
+cd ~	move to users’ home directory from anywhere
+mv [file1 name] [new file2 name]	move or rename two files at a time
+cd –	move one directory back from the current location
+mv [file name]	move any file and folder
+ls	list directory
+ls -a	list all files including hidden files
+PWD	it shows your current working directory
+mv -i	interactive prompt before overwrite
+wget [url]	install tool, apt install wget
+git clone [url]	install any tools with git clone, apt install git
+ls -al	a formatted listing with hidden files
+mv -f	force move by overwriting destination files without prompt
+ls -i	Display the number of files or directory
+cp	copy any file
+cd /	change to the root directory
+cd	change directory
+cd ..	change current directory to parent directory
+curl -O [url]	apt install curl
+rm	remove or delete files
+rm [filename]	remove any text files
+rmdir [dir name]	remove any directory
+rm -rf	force remove a directory or a folder
+rm -r [name]	delete a directory called the name
+apt remove [package name]	uninstall/remove a package
+touch [file name]	create new file
+mkdir [name]	create a directory or folder
+more [file name]	output the contents of the file
+head [file name]	output the first 10 lines of a file
+tail -f [file name]	output the contents of the file as it grows
+apt install zip	install the zip file tool
+zip name.zip [file]	compress the file using these commands
+unzip [zip file]	to unzip file
+FTP	launch FTP client from a terminal
+-p	use passive mode
+bye	terminate current FTP session, exit
+ASCII	set file transfer to ASCII protocols
+bell	bell sound after each command
+status	shows the current status of FTP server
+open host	open a connection to a remote host
+remotehelp [cmdname]	request help from the FTP server
+account [password]	supply a password required by remote
+uname -m	used to find the architecture of your device
+du	display directory space usage
+df	display disk usages
+cal	show display calendar
+w	show display who is currently online
+cat /proc/meminfo	show memory-related information
+cat /proc/cpuinfo	show CPU information
+whoami	show your login name
+fingure username	shows information about the user
+date	show the current date and time
+uptime	show the system current uptime
+man command	show manual a command
+free	display memory and swap usage
+kill	send a signal to process
+kill- l	list all of the signals that is possible to send with a kill
+lspci	show PCI devices
+lsusb	show USB devices
+apt search [qurey]
+pkg search [qurey]	find a package
+locate [file]	find all files with filename
+locate [query]	find all pathnames contain a phrase
+whereis [command]	find location binary /source/man file for a command
+which [command]	find of an executable
+grep pattern [files]	searching for patterns in files
+grep -r pattern files	searching for a certain pattern in files
+command | grep pattern	Search for a pattern in the output of the command
+find / -atime40	to find all the files, which are accessed 40 days back
+find / -cmin -60	find change files in the last 1 hour
+find / -type d -name mll	find all directories whose name is all in the directory
+find . -type f -perm 0777 -print	find all the files, whose permission is 777
+ifconfig	shows all configurations a network interface like ip, mac
+ifconfig eth0	used view the network setting on the interface eth0
+ifconfig wlan0	view the network setting on wlan0
+ping [host]	to ping host ip and show results
+arp	check network card & show ip address
+host	display specific server
+netstat	review network connection
+nslookup	find out DNS related query
+tracerout ipadress	display the number of hops & response time to get to a remote system and website
+whois domain	get whois information of domain
+telnet [ip address [post]	telnet connection
+dig domain	get DNS information of the domain
+scp	copies file, over a source
+uname -a	used to display kernel information
+whereis app	shows the possible location for an app
+nano [file name]	display and edit text files
+apt show	view package information
+append [local-file] remote file	append a local file to one on the remote
+$	execute a macro
+These are the termux commands we are going to use for learning termux just share our group to learn more and to create awareness
+https://t.me/worldoffreenetandtechnology
+That’s our link for the group called world of freenet and technology
